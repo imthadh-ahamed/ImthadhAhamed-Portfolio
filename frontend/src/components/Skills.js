@@ -21,7 +21,11 @@ function Skills() {
       "Flask",
       "PHP",
     ],
-    Databases: ["MySQL", "SQLite", "MongoDB"],
+    "Databases": [
+      "MySQL",
+      "SQLite",
+      "MongoDB"
+    ],
     "IDEs and ICEs": [
       "Visual Studio Code",
       "PyCharm",
@@ -32,9 +36,19 @@ function Skills() {
       "Jupyter Notebook",
       "Google Colab",
     ],
-    "Data Analysis and Visualization": ["Excel", "Power BI", "Tableau"],
-    "Version Control": ["Git", "GitHub"],
-    Cloud: ["AWS", "Azure"],
+    "Data Analysis and Visualization": [
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ],
+    "Version Control": [
+      "Git",
+      "GitHub"
+    ],
+    Cloud: [
+      "AWS",
+      "Azure"
+    ],
   };
 
   return (
