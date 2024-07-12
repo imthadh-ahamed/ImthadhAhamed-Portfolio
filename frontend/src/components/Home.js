@@ -1,9 +1,9 @@
 import React from "react";
-import "./styles.css";
-import yourPhoto from "./path-to-your-photo.jpg"; // replace with the correct path to your photo
+import "../styles/styles.css";
+import yourPhoto from "../images/BG Removed Image.png"; // replace with the correct path to your photo
 import {
   FaFacebookF,
-  FaTwitter,
+  FaEnvelope,
   FaLinkedinIn,
   FaWhatsapp,
 } from "react-icons/fa";
@@ -15,35 +15,35 @@ function Home() {
         <h1>
           I'm <span className="highlight">Imthadh Ahamed</span>
         </h1>
-        <p>Software Developer & Data Scientist</p>
-        <button>Contact Me</button>
+        <p> A passionate AI/ML | Data Enthusiast | Aspiring IT Professional </p>
+        {/* <button>Contact Me</button> */}
       </div>
       <div className="home-photo">
         <img src={yourPhoto} alt="Imthadh Ahamed" />
         <div className="social-icons">
           <a
-            href="https://www.facebook.com/your-profile"
+            href="https://fb.com/imthadhahamed476"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaFacebookF />
           </a>
           <a
-            href="https://www.twitter.com/your-profile"
+            href="mailto:imthadh.ahamed.iahs@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaTwitter />
+            <FaEnvelope />
           </a>
           <a
-            href="https://www.linkedin.com/in/your-profile"
+            href="https://linkedin.com/in/imthadh-ahamed0205"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaLinkedinIn />
           </a>
           <a
-            href="https://www.whatsapp.com/send?phone=your-number"
+            href="https://wa.link/1fmnm6"
             target="_blank"
             rel="noopener noreferrer"
           >
