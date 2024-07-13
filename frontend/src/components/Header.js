@@ -4,7 +4,15 @@ import "../styles/styles.css";
 function Header() {
   return (
     <header className="header">
-      <div className="logo">Imthadh Ahamed</div>
+      <div className="logo">
+        <div class="loading">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
       <nav className="nav">
         <a href="#about">About</a>
         <a href="#portfolio">Portfolio</a>

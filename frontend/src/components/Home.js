@@ -16,13 +16,13 @@ function Home() {
           I'm <span className="highlight">Imthadh Ahamed</span>
         </h1>
         <p> A passionate AI/ML | Data Enthusiast | Aspiring IT Professional </p>
-        <div class="loading">
+        {/* <div class="loading">
           <span></span>
           <span></span>
           <span></span>
           <span></span>
           <span></span>
-        </div>
+        </div> */}
         {/* <button>Contact Me</button> */}
       </div>
       <div className="home-photo">
