@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Backend for MERN stack portfolio website",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
@@ -17,6 +18,7 @@
   "author": "Imthadh Ahamed",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongoose": "^6.0.0"
   },
