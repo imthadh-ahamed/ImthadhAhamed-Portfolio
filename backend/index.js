@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, "frontend/build")));
 
 app.use(cors(
     {
-        origin: "",
+        origin: ["imthadh-ahamed-portfolio-paf9.vercel.app"],
         methods: ["POST", "GET"],
         credentials: true
     }
