@@ -16,7 +16,8 @@ body {
     justify-content: space-between;
     padding: 20px;
     background-color: #222;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    align-items: center;
 }
 
 .header .logo {
@@ -51,6 +52,8 @@ body {
 
 .home-content {
     max-width: 50%;
+    flex: 1;
+    min-width: 300px;
 }
 
 .home-content h1 {
@@ -84,6 +87,8 @@ body {
 .home-photo {
     position: relative;
     max-width: 45%;
+    flex: 1;
+    min-width: 300px;
 }
 
 .home-photo img {
@@ -108,6 +113,66 @@ body {
 
 .social-icons a:hover {
     color: #ffd700;
+}
+
+
+@media (max-width: 1024px) {
+    .home {
+        padding: 50px 20px;
+    }
+
+    .home-content h1 {
+        font-size: 2.5em;
+    }
+
+    .home-content p {
+        font-size: 1.1em;
+    }
+}
+
+@media (max-width: 768px) {
+    .home {
+        padding: 30px 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .home-content {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .home-photo {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .social-icons {
+        position: static;
+        margin-top: 20px;
+        flex-direction: row;
+    }
+
+    .social-icons a {
+        margin: 0 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-content h1 {
+        font-size: 2em;
+    }
+
+    .home-content p {
+        font-size: 1em;
+    }
+
+    .social-icons a {
+        font-size: 1.2em;
+        text-align: justify;
+        align-items: center;
+    }
 }
 
 .about,
