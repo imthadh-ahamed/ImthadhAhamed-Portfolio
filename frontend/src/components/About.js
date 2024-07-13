@@ -13,16 +13,19 @@ function About() {
             {" "}
             Sri Lanka Institute of Information Technology (SLIIT)
           </span>
-          . My journey in data science has been marked by a relentless pursuit
-          of knowledge and hands-on experience in various technical domains. My
-          professional experiences have equipped me with a diverse skill set and
-          a proven track record of delivering impactful projects.
+          , driven by a passion for data science and technology. My journey has
+          equipped me with a diverse skill set and a proven track record in
+          programming, web development, data analysis, and machine learning.
+          Proficient in Python, JavaScript, and Java, I excel at using modern
+          frameworks like React, Node.js, and Django to develop innovative
+          projects and high-quality software solutions.
         </p>
         <p>
-          I have successfully developed several innovative projects, showcasing
-          my expertise in programming, web development, and data analysis. I
-          thrive in collaborative environments, bringing a blend of technical
-          expertise, creativity, and problem-solving skills to every project.
+          My professional experiences have honed my ability to lead projects and
+          work collaboratively in agile environments. I thrive on creativity and
+          problem-solving, consistently delivering impactful projects. A strong
+          advocate for continuous learning, I actively contribute to open-source
+          projects and seek to connect with like-minded professionals.
         </p>
         <p>
           I am eager to connect with like-minded professionals and explore

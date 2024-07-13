@@ -19,29 +19,29 @@ function Portfolio() {
       technologies: "Kotlin",
     },
     {
-      title: "School Management System",
-      link: "https://github.com/imthadh-ahamed/School-Event-Management",
+      title: "School Event Management System",
+      link: "https://github.com/imthadh-ahamed/School-Event-Management.git",
       technologies: "MERN Stack",
     },
     {
       title: "Blood Bank Management System",
-      link: "https://github.com/imthadh-ahamed/Blood-bank-MS",
+      link: "https://github.com/imthadh-ahamed/Blood-bank-MS.git",
       technologies: "MERN Stack",
     },
     {
-      title: "Weather Report Service",
-      link: "https://github.com/imthadh-ahamed/NodeJs-Backend-Application",
-      technologies: "Node.js, Express, MongoDB",
-    },
-    {
       title: "Online Banking Management",
-      link: "https://github.com/imthadh-ahamed/Online-Banking-Management",
+      link: "https://github.com/imthadh-ahamed/Online-Banking-Management.git",
       technologies: "HTML, CSS, JavaScript, SQL, PHP",
     },
     {
       title: "Online Property Management System",
-      link: "https://github.com/imthadh-ahamed/-Online-Property-Management-System",
+      link: "https://github.com/imthadh-ahamed/Online-Property-Management-System.git",
       technologies: "HTML, CSS, JavaScript, Java, SQL",
+    },
+    {
+      title: "Snake Mobile Game",
+      link: "https://github.com/imthadh-ahamed/Snake-Game.git",
+      technologies: "Kotlin",
     },
   ];
 

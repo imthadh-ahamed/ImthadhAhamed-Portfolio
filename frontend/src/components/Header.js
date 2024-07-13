@@ -8,7 +8,8 @@ function Header() {
       <nav className="nav">
         <a href="#about">About</a>
         <a href="#portfolio">Portfolio</a>
-        <a href="#contact">Contact</a>
+        <a href="#experience">Experience</a>
+        <a href="#licences">Licences</a>
       </nav>
     </header>
   );
