@@ -41,6 +41,35 @@ body {
     color: #ffd700;
 }
 
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav {
+        flex-direction: column;
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .nav a {
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 1.2em;
+    }
+
+    .nav a {
+        margin: 5px 0;
+    }
+}
+
+
 .home {
     display: flex;
     align-items: center;
