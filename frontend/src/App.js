@@ -5,6 +5,7 @@ import About from './components/About'
 import Skills from './components/Skills'
 import Portfolio from './components/Portfolio'
 import Experience from './components/Experience'
+import Licences from "./components/Licences";
 
 function App() {
   return (
@@ -12,12 +13,16 @@ function App() {
       <Header />
       <Home />
       <About />
-      <Skills />
-      <Portfolio />
       <Experience />
-
+      <Portfolio />
+      <Skills />
+      <Licences />
+      <p className="thanks-message">Thanks for scrolling...</p>
+      <div class="loader">
+        <div class="justify-content-center jimu-primary-loading"></div>
+      </div>
     </div>
-  )
+  );
 }
 
 export default App
