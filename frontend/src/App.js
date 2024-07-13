@@ -8,6 +8,7 @@ import Experience from './components/Experience'
 import Licences from "./components/Licences";
 
 function App() {
+  axios.defaults.withCredentials = true;
   return (
     <div className="app">
       <Header />
