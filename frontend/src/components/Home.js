@@ -5,6 +5,7 @@ import {
   FaFacebookF,
   FaEnvelope,
   FaLinkedinIn,
+  FaGithub,
   FaWhatsapp,
 } from "react-icons/fa";
 
@@ -48,6 +49,13 @@ function Home() {
             rel="noopener noreferrer"
           >
             <FaLinkedinIn />
+          </a>
+          <a
+            href="https://github.com/imthadh-ahamed"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGithub />
           </a>
           <a
             href="https://wa.link/1fmnm6"
