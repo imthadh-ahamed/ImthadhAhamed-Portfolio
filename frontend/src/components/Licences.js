@@ -39,7 +39,7 @@ function Licences() {
       providers: "LinkedIn",
     },
     {
-      title: "Career Essentials in Data Analysis by Microsoft and LinkedIn",
+      title: "Career Essentials in Data Analysis",
       link: "https://www.linkedin.com/learning/certificates/fc4365f4d3c457852f9fbfc45e325a04e5cb0ffc4ed49f5e1721a860ebb7df33",
       providers: "Microsoft",
     },
