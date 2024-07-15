@@ -39,9 +39,9 @@ function Licences() {
       providers: "LinkedIn",
     },
     {
-      title: "Introduction to Career Skills in Data Analytics",
-      link: "https://www.linkedin.com/learning/certificates/b309dfad52f3756a702cdda4e45a93ee0869a4fa97a03d62d39af45f3c807149",
-      providers: "LinkedIn",
+      title: "Career Essentials in Data Analysis by Microsoft and LinkedIn",
+      link: "https://www.linkedin.com/learning/certificates/fc4365f4d3c457852f9fbfc45e325a04e5cb0ffc4ed49f5e1721a860ebb7df33",
+      providers: "Microsoft",
     },
   ];
 
