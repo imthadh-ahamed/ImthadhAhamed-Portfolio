@@ -48,7 +48,7 @@ function About() {
           >
             GitHub
           </a>{" "}
-          or
+          or{" "}
           <a
             href="https://drive.google.com/file/d/1V9ern4Tkbp8gzG5zGmzCgQXgZk_w-XWW/view?usp=sharing"
             target="_blank"
