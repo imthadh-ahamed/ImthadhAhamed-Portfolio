@@ -48,6 +48,15 @@ function About() {
           >
             GitHub
           </a>{" "}
+          or
+          <a
+            href="https://drive.google.com/file/d/1V9ern4Tkbp8gzG5zGmzCgQXgZk_w-XWW/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="link"
+          >
+            CV
+          </a>{" "}
           to see how we can collaborate and drive innovation together!
         </p>
       </div>
