@@ -24,11 +24,17 @@ function Header() {
         <a href="#about" onClick={() => setIsOpen(false)}>
           About
         </a>
+        <a href="#experience" onClick={() => setIsOpen(false)}>
+          Experience
+        </a>
         <a href="#portfolio" onClick={() => setIsOpen(false)}>
           Portfolio
         </a>
-        <a href="#experience" onClick={() => setIsOpen(false)}>
-          Experience
+        <a href="#educations" onClick={() => setIsOpen(false)}>
+          Educations
+        </a>
+        <a href="#skills" onClick={() => setIsOpen(false)}>
+          Skills
         </a>
         <a href="#licences" onClick={() => setIsOpen(false)}>
           Licences

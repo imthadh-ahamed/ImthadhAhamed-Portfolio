@@ -241,6 +241,7 @@ body {
 .skills,
 .portfolio,
 .experience,
+.education,
 .testimonial,
 .licences {
     padding: 50px 20px;
@@ -426,6 +427,79 @@ body {
 }
 
 .testimonial-item {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+
+/* Education =================================================================================================== */
+
+.education h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.education .timeline {
+    position: relative;
+    padding-left: 40px;
+    border-left: 2px solid #ffd700;
+}
+
+.education .timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.education .timeline-year {
+    position: absolute;
+    left: -40px;
+    top: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #222;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #ffd700;
+}
+
+.education .timeline-dot {
+    position: absolute;
+    left: 25px;
+    top: 65px;
+    width: 14px;
+    height: 14px;
+    background-color: #ffd700;
+    border-radius: 50%;
+}
+
+.education .timeline-content {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.education .timeline-content h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+}
+
+.education .timeline-content h4 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+    color: #ffd700;
+}
+
+.education .timeline-content p {
+    margin: 0;
+    white-space: pre-line;
+}
+
+.education .testimonial-item {
     background-color: #333;
     padding: 20px;
     border-radius: 5px;
