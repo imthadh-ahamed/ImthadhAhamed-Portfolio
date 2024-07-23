@@ -4,7 +4,7 @@ import "../styles/styles.css";
 function Experience() {
   const experiences = [
     {
-      year: "2024",
+      year: "2024 Jan - 2024 May",
       title: "Data Management Coordinator",
       company: "Corporate Services (Private) Limited",
       description: `
@@ -17,7 +17,7 @@ function Experience() {
       `,
     },
     {
-      year: "2020 - 2023",
+      year: "2020 Mar - 2023 Jan",
       title: "Creative Writer - Part time",
       company: "Express Newspapers (Ceylon) PVT LTD",
       description: `

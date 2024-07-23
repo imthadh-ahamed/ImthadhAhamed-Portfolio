@@ -6,6 +6,7 @@ import Skills from './components/Skills'
 import Portfolio from './components/Portfolio'
 import Experience from './components/Experience'
 import Licences from "./components/Licences";
+import Educations from './components/Educations'
 
 function App() {
   return (
@@ -15,11 +16,17 @@ function App() {
       <About />
       <Experience />
       <Portfolio />
+      <Educations />
       <Skills />
       <Licences />
-      <p className="thanks-message">Thanks for scrolling...</p>
+      {/* <p className="thanks-message">Thanks for scrolling...</p>
       <div class="loader">
         <div class="justify-content-center jimu-primary-loading"></div>
+      </div> */}
+
+      <div class="loader">
+        <span class="loader-text">Thank you for scrolling</span>
+        <span class="load"></span>
       </div>
     </div>
   );

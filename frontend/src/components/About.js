@@ -50,7 +50,7 @@ function About() {
           </a>{" "}
           or{" "}
           <a
-            href="https://drive.google.com/file/d/1V9ern4Tkbp8gzG5zGmzCgQXgZk_w-XWW/view?usp=sharing"
+            href="https://drive.google.com/file/d/1FGFbogY7dxJeQTUlVZ0Ll-xH2G_9CwS4/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="link"
