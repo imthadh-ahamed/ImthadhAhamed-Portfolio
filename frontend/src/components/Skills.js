@@ -9,6 +9,7 @@ function Skills() {
       "C/C++",
       "JavaScript",
       "Kotlin",
+      "C#",
     ],
     "Web Development": [
       "HTML",
@@ -16,15 +17,24 @@ function Skills() {
       "Tailwind CSS",
       "TypeScript",
       "Bootstrap",
-      "MERN Stack",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Next.js",
       "Redux",
       "Flask",
       "PHP",
     ],
+    "Frameworks and Tools": [
+      "Spring Boot",
+      ".NET",
+      "Docker",
+    ],
     "Databases": [
       "MySQL",
       "SQLite",
-      "MongoDB"
+      "MongoDB",
+      "Firebase",
     ],
     "IDEs and ICEs": [
       "Visual Studio Code",
@@ -41,13 +51,17 @@ function Skills() {
       "Power BI",
       "Tableau"
     ],
+    "Cloud and Deployments": [
+      "AWS",
+      "Azure",
+      "Vercel",
+    ],
     "Version Control": [
       "Git",
       "GitHub"
     ],
-    Cloud: [
-      "AWS",
-      "Azure"
+    "Others": [
+      "API Integrations",
     ],
   };
 
