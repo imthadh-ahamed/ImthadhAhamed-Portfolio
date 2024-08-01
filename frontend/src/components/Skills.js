@@ -29,6 +29,12 @@ function Skills() {
       "Spring Boot",
       ".NET",
       "Docker",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Keras",
     ],
     "Databases": [
       "MySQL",
