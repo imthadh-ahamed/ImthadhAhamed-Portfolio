@@ -43,6 +43,11 @@ function Licences() {
       link: "https://www.linkedin.com/learning/certificates/fc4365f4d3c457852f9fbfc45e325a04e5cb0ffc4ed49f5e1721a860ebb7df33",
       providers: "Microsoft",
     },
+    {
+      title: "Career Essentials in Software Development",
+      link: "https://www.linkedin.com/learning/certificates/403632fa5129e81a83b8aacc9393f6070374a3fc7db8df375bf27aa85c7f8ec9",
+      providers: "Microsoft",
+    },
   ];
 
   return (
