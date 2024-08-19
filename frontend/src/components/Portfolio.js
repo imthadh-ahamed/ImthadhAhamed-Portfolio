@@ -9,6 +9,11 @@ function Portfolio() {
       technologies: "Python, Flask",
     },
     {
+      title: "Library Management System",
+      link: "https://github.com/imthadh-ahamed/Library-Management-System.git",
+      technologies: " C#, .NET Core, SQLite, React with TypeScript"
+    },
+    {
       title: "Weather Report Service - NodeJs-Backend-Application",
       link: "https://github.com/imthadh-ahamed/NodeJs-Backend-Application.git",
       technologies: "Node.js, Express.js",
