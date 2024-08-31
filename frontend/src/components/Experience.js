@@ -4,6 +4,18 @@ import "../styles/styles.css";
 function Experience() {
   const experiences = [
     {
+      year: "2024 Aug - Present",
+      title: "Software Engineer Intern",
+      company: "Expernetic Pvt Ltd",
+      // description: `
+      //   - Developed backend solutions using Node.js and Spring Boot, increasing API performance by 25%.
+      //   - Implemented API integrations, improving data exchange efficiency by 20%.
+      //   - Collaborated with front-end developers to ensure smooth integration and functionality.
+      //   - Conducted code reviews and debugging, decreasing bug occurrences by 10%.
+      //   - Ensured secure and efficient data handling practices in all backend processes.
+      // `,
+    },
+    {
       year: "2024 Apr - Present",
       title: "Back End Developer",
       company: "Freelance Projects",
