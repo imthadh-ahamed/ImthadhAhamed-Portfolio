@@ -7,7 +7,7 @@ function Experience() {
       year: "2024 Aug - Present",
       title: "Software Engineer Intern",
       company: "Expernetic Pvt Ltd",
-       description: `
+      // description: `
       //   - Developed backend solutions using Node.js and Spring Boot, increasing API performance by 25%.
       //   - Implemented API integrations, improving data exchange efficiency by 20%.
       //   - Collaborated with front-end developers to ensure smooth integration and functionality.
